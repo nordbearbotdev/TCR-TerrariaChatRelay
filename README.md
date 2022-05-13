@@ -4,6 +4,7 @@
 [![Made by Woodman](https://img.shields.io/badge/made%20by-woodman-blueviolet?style=flat-square)]()
 [![Made by xNarnia](https://img.shields.io/badge/made%20by-xNarnia-blueviolet?style=flat-square)]()  
 [![Stars](https://img.shields.io/amo/stars/stars)]()
+[![Watch](https://img.shields.io/github/watchers/nordbearbotdev/TCR-TerrariaChatRelay?style=social)]()
   
 </div>
 
