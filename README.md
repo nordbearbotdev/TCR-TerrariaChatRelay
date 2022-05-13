@@ -30,7 +30,7 @@
 
 If you want to suggest a chat service, prioritize another, or contribute some code, please feel free to say so!
 
-### Helpful Links:
+### Ссылки:
 * [First Time Setup - Server Owner](https://github.com/xPanini/TCR-TerrariaChatRelay/wiki/First-Time-Setup-Server-Owner)
 * [Command List](https://github.com/xPanini/TCR-TerrariaChatRelay/wiki/Commands)
 * [Discord Support Server](https://discord.gg/xAQGT4VetN)
