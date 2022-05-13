@@ -1,6 +1,10 @@
-/bower/l/:packageName
-/amo/dw/:addonId
-
+<div align="center">
+  
+![License](https://img.shields.io/badge/license-MIT-737CA1?style=flat-square) 
+[![Made by Woodman](https://img.shields.io/badge/made%20by-woodman-blueviolet?style=flat-square)]()
+[![Made by xNarnia](https://img.shields.io/badge/made%20by-woodman-blueviolet?style=flat-square)]()  
+  
+</div>
 # TCR-TerrariaChatRelay - TShock & TModLoader
 Самообслуживаемый чат-ретранслятор Terraria с расширяемой поддержкой службы чата
 
