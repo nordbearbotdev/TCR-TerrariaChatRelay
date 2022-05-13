@@ -1,4 +1,5 @@
-	/bower/l/:packageName
+/bower/l/:packageName
+/amo/dw/:addonId
 
 # TCR-TerrariaChatRelay - TShock & TModLoader
 Самообслуживаемый чат-ретранслятор Terraria с расширяемой поддержкой службы чата
