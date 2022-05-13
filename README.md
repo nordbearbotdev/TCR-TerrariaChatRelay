@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-737CA1?style=flat-square) 
 [![Made by Woodman](https://img.shields.io/badge/made%20by-woodman-blueviolet?style=flat-square)]()
 [![Made by xNarnia](https://img.shields.io/badge/made%20by-xNarnia-blueviolet?style=flat-square)]()  
-[![Stars](https://img.shields.io/amo/stars/stars)]
+[![Stars](https://img.shields.io/amo/stars/stars)]()
   
 </div>
 
