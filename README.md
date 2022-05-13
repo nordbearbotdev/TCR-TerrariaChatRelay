@@ -5,6 +5,7 @@
 [![Made by xNarnia](https://img.shields.io/badge/made%20by-woodman-blueviolet?style=flat-square)]()  
   
 </div>
+
 # TCR-TerrariaChatRelay - TShock & TModLoader
 Самообслуживаемый чат-ретранслятор Terraria с расширяемой поддержкой службы чата
 
