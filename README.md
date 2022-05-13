@@ -1,5 +1,5 @@
 # TCR-TerrariaChatRelay - TShock & TModLoader
-Self-serving Terraria Chat Relay with extensible chat service support.
+Самообслуживаемый чат-ретранслятор Terraria с расширяемой поддержкой службы чата
 
 # Содержание
 
