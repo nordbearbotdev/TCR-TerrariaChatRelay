@@ -3,7 +3,7 @@
 
 # Содержание
 
-# Features:
+# Оссобености:
 
 * Discord to Terraria bridge like Discord2Terraria or Terracord
 * Internal permission system to grant access to commands
